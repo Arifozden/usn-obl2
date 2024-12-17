@@ -12,3 +12,5 @@ def areal_og_omkrets(a, b):
 
 a = float(input("Skriv inn lengden av basen a: "))
 b = float(input("Skriv inn høyden b: "))
+
+areal, omkrets = areal_og_omkrets(a, b)
