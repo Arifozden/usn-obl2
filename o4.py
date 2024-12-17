@@ -13,3 +13,4 @@ else:
 
 nytt_land = input("Skriv inn et nytt land: ")
 hovedstad = input("Skriv inn hovedstaden i dette landet: ")
+innbyggere = float(input("Skriv inn antall millioner innbyggere i hovedstaden: "))
