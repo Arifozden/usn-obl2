@@ -5,3 +5,4 @@ data = {
 }
 
 land = input("Skriv inn et land: ")
+if land in data:
