@@ -7,3 +7,4 @@ data = {
 land = input("Skriv inn et land: ")
 if land in data:
     hovedstad, innbyggere = data[land]
+    print(f"{hoovedstad} er hovedstaden i {land} og har {innbyggere} millioner innbyggere i {hovedstad}.")
