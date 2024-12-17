@@ -15,3 +15,4 @@ b = float(input("Skriv inn høyden b: "))
 
 areal, omkrets = areal_og_omkrets(a, b)
 print(f"Total areal: {areal:.2f}")
+print(f"Ytre omkrets: {omkrets:.2f}")
