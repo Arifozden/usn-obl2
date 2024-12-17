@@ -3,3 +3,4 @@ data = {
     "Frankrike": ["Paris", 2.161],
     "Tyskland": ["Berlin", 3.769],
 }
+
