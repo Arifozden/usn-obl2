@@ -12,3 +12,4 @@ else:
     print(f"Fant ikke landet {land}.")
 
 nytt_land = input("Skriv inn et nytt land: ")
+hovedstad = input("Skriv inn hovedstaden i dette landet: ")
