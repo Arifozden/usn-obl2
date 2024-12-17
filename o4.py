@@ -16,3 +16,4 @@ hovedstad = input("Skriv inn hovedstaden i dette landet: ")
 innbyggere = float(input("Skriv inn antall millioner innbyggere i hovedstaden: "))
 
 data[nytt_land] = [hovedstad, innbyggere]
+print("Oppdatert dictionary:", data)
