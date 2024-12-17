@@ -6,3 +6,4 @@ y = -x**2 -5
 
 plt.plot(x, y, label='f(x) = -x^2 -5')
 plt.xlabel('x')
+plt.ylabel('f(x)')
