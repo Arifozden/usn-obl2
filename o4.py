@@ -9,3 +9,4 @@ if land in data:
     hovedstad, innbyggere = data[land]
     print(f"{hoovedstad} er hovedstaden i {land} og har {innbyggere} millioner innbyggere i {hovedstad}.")
 else:
+    print(f"Fant ikke landet {land}.")
