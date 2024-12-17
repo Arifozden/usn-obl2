@@ -10,3 +10,5 @@ if land in data:
     print(f"{hoovedstad} er hovedstaden i {land} og har {innbyggere} millioner innbyggere i {hovedstad}.")
 else:
     print(f"Fant ikke landet {land}.")
+
+nytt_land = input("Skriv inn et nytt land: ")
