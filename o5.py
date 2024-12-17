@@ -7,3 +7,5 @@ def areal_og_omkrets(a, b):
     total_areal = areal_trekant + areal_halvsirkel
 
     omkrets = b + a + (math.pi * r)
+
+    return total_areal, omkrets
