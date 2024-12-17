@@ -9,3 +9,5 @@ def areal_og_omkrets(a, b):
     omkrets = b + a + (math.pi * r)
 
     return total_areal, omkrets
+
+a = float(input("Skriv inn lengden av basen a: "))
