@@ -12,7 +12,7 @@ svaret til skjerm. Merk, man kan ikke kjøpe 4 og en kvart pizza på butikken (m
 Hint1: Gir programmet ditt et fornuftig svar hvis det f.eks er 21 elever i klassen?
 Hint2: Det er ikke vanlig å si/skrive: ‘Det må handles inn 6.0 pizzaer til festen’. Hvordan kan
 sikre at antall pizzaer skrives ut som et heltall (ikke desimaltall)?
-Oppg 3) Lag et program med en funksjon som regner om fra grader til radianer.
+Oppg 3) Lag et program med en funksjon som regner om fra grader til radianer
 Programmet skal starte med:
 import numpy as np
 v_grad = float(input('Skriv inn gradtallet:' ))
